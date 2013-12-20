@@ -2,4 +2,4 @@
 
 <portlet:defineObjects />
 
-This is the <b>Hello World</b> portlet in View mode.
+This is the <b>Hello World 2</b> portlet in View mode.
