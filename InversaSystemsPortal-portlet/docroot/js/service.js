@@ -1,0 +1,1 @@
+Liferay.Service.register("Liferay.Service.test", "com.inversasystems.service", "InversaSystemsPortal-portlet");

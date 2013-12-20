@@ -1,0 +1,1 @@
+create index IX_5BE2EDEB on test_Foo (field2);
